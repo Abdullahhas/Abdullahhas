@@ -1,6 +1,6 @@
 # Hello, Techy!
 
-<img align="right" alt="GIF" src="https://www.shutterstock.com/image-photo/man-programmer-coding-night-on-600nw-2463474777.jpg)" width="360px"/>
+<img align="right" alt="GIF" src="https://www.shutterstock.com/image-photo/man-programmer-coding-night-on-600nw-2463474777.jpg" width="360px"/>
   
 ### 🧐 whoami:
 - 👋 &nbsp; Hi, I’m @Abdullahhas
