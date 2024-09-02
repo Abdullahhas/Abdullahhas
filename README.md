@@ -12,6 +12,7 @@
 
 
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahhas&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahhas" /> </p>
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -42,6 +43,11 @@
 </p>
 
 <br/>
+### 📈 GitHub Statistics:
+---
+### 📈 GitHub Statistics:
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahhas&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/abdullahhas/) [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahhas&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/abdullahhas/)
+
 
 
 
