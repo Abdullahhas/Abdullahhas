@@ -43,10 +43,12 @@
 </p>
 
 <br/>
-### 📈 GitHub Statistics:
+
 ---
 ### 📈 GitHub Statistics:
-[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahhas&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/abdullahhas/) [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahhas&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/abdullahhas/)
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahhas&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/abdullahhas/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahhas&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/abdullahhas/)
 
 
 
