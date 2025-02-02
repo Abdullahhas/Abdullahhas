@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://www.shutterstock.com/image-photo/man-programmer-coding-night-on-600nw-2463474777.jpg" width="360px"/>
   
 ### 🧐 whoami:
-- 👋 &nbsp; Hi, I’m @Abdullahhas
+- 👋 &nbsp; Hi, I’m @Abdullahhassan
 - 📚 &nbsp; Studying software eng from COMSATS Lahore
 - 👀 &nbsp; I’m interested in web developing
 - 💞️ &nbsp; I’m looking to collaborate on codes
