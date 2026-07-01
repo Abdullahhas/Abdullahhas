@@ -8,7 +8,7 @@
 - 👀 &nbsp; I’m interested in web developing and AI
 - 💞️ &nbsp; I’m looking to collaborate on codes
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](linkedin.com/in/abdullah-hassan-224347284)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/theabdhassan/)
 
 
 <br>
